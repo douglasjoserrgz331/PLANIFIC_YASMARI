@@ -1,0 +1,295 @@
+<odoo>
+    <data>
+        <!-- VISTA FORM: Estadisticas -->
+        <record model="ir.ui.view" id="view_estadistica_form">
+            <field name="name">estadistica.form</field>
+            <field name="model">estadistica</field>
+            <field name="type">form</field>
+            <field name="arch" type="xml">
+                <form string="estudiantes">
+                    <sheet>
+                        <group>
+                            <field name="programaestadistica" readonly='1'/>
+                            <field name="nucleoestadistica" readonly='1'/>
+                            <field name="turnoestadistica" readonly='1'/>
+                            <field name="ucestadistica1" readonly='1'/>
+                            <field name="idestudiante" invisible="1"/>
+                            <field name="estudiantes1"/>
+                            <field name="iddocente" invisible="1"/>
+                            <field name="docente1"/>
+                            <field name="grupo1"/>
+                            
+                        </group>
+                    </sheet>
+                    <sheet>
+                        <group>
+                            <field name="programaestadistica" readonly='1'/>
+                            <field name="nucleoestadistica" readonly='1'/>
+                            <field name="turnoestadistica" readonly='1'/>
+                            <field name="ucestadistica2" readonly='1'/>
+                            <field name="idestudiante" invisible="1"/>
+                            <field name="estudiantes2"/>
+                            <field name="iddocente" invisible="1"/>
+                            <field name="docente2"/>
+                            <field name="grupo2"/>
+                            
+                        </group>
+                    </sheet>
+                    <sheet>
+                        <group>
+                            <field name="programaestadistica" readonly='1'/>
+                            <field name="nucleoestadistica" readonly='1'/>
+                            <field name="turnoestadistica" readonly='1'/>
+                            <field name="ucestadistica3" readonly='1'/>
+                            <field name="idestudiante" invisible="1"/>
+                            <field name="estudiantes3"/>
+                            <field name="iddocente" invisible="1"/>
+                            <field name="docente3"/>
+                            <field name="grupo3"/>
+                            
+                        </group>
+                    </sheet>
+                    <sheet>
+                        <group>
+                            <field name="programaestadistica" readonly='1'/>
+                            <field name="nucleoestadistica" readonly='1'/>
+                            <field name="turnoestadistica" readonly='1'/>
+                            <field name="ucestadistica4" readonly='1'/>
+                            <field name="idestudiante" invisible="1"/>
+                            <field name="estudiantes4"/>
+                            <field name="iddocente" invisible="1"/>
+                            <field name="docente4"/>
+                            <field name="grupo4"/>
+                            
+                        </group>
+                    </sheet>
+                    <sheet>
+                        <group>
+                            <field name="programaestadistica" readonly='1'/>
+                            <field name="nucleoestadistica" readonly='1'/>
+                            <field name="turnoestadistica" readonly='1'/>
+                            <field name="ucestadistica5" readonly='1'/>
+                            <field name="idestudiante" invisible="1"/>
+                            <field name="estudiantes5"/>
+                            <field name="iddocente" invisible="1"/>
+                            <field name="docente5"/>
+                            <field name="grupo5"/>
+                            
+                        </group>
+                    </sheet>
+                    <sheet>
+                        <group>
+                            <field name="programaestadistica" readonly='1'/>
+                            <field name="nucleoestadistica" readonly='1'/>
+                            <field name="turnoestadistica" readonly='1'/>
+                            <field name="ucestadistica6" readonly='1'/>
+                            <field name="idestudiante" invisible="1"/>
+                            <field name="estudiantes6"/>
+                            <field name="iddocente" invisible="1"/>
+                            <field name="docente6"/>
+                            <field name="grupo6"/>
+                            
+                        </group>
+                    </sheet>
+                    <sheet>
+                        <group>
+                            <field name="programaestadistica" readonly='1'/>
+                            <field name="nucleoestadistica" readonly='1'/>
+                            <field name="turnoestadistica" readonly='1'/>
+                            <field name="ucestadistica7" readonly='1'/>
+                            <field name="idestudiante" invisible="1"/>
+                            <field name="estudiantes7"/>
+                            <field name="iddocente" invisible="1"/>
+                            <field name="docente7"/>
+                            <field name="grupo7"/>
+                            
+                        </group>
+                    </sheet>
+                    <sheet>
+                        <group>
+                            <field name="programaestadistica" readonly='1'/>
+                            <field name="nucleoestadistica" readonly='1'/>
+                            <field name="turnoestadistica" readonly='1'/>
+                            <field name="ucestadistica8" readonly='1'/>
+                            <field name="idestudiante" invisible="1"/>
+                            <field name="estudiantes8"/>
+                            <field name="iddocente" invisible="1"/>
+                            <field name="docente8"/>
+                            <field name="grupo8"/>
+                            
+                        </group>
+                    </sheet>
+                    <sheet>
+                        <group>
+                            <field name="programaestadistica" readonly='1'/>
+                            <field name="nucleoestadistica" readonly='1'/>
+                            <field name="turnoestadistica" readonly='1'/>
+                            <field name="ucestadistica9" readonly='1'/>
+                            <field name="idestudiante" invisible="1"/>
+                            <field name="estudiantes9"/>
+                            <field name="iddocente" invisible="1"/>
+                            <field name="docente9"/>
+                            <field name="grupo9"/>
+                            
+                        </group>
+                    </sheet>
+                    <sheet>
+                        <group>
+                            <field name="programaestadistica" readonly='1'/>
+                            <field name="nucleoestadistica" readonly='1'/>
+                            <field name="turnoestadistica" readonly='1'/>
+                            <field name="ucestadistica10" readonly='1'/>
+                            <field name="idestudiante" invisible="1"/>
+                            <field name="estudiantes10"/>
+                            <field name="iddocente" invisible="1"/>
+                            <field name="docente10"/>
+                            <field name="grupo10"/>
+                            
+                        </group>
+                    </sheet>
+                    <sheet>
+                        <group>
+                            <field name="programaestadistica" readonly='1'/>
+                            <field name="nucleoestadistica" readonly='1'/>
+                            <field name="turnoestadistica" readonly='1'/>
+                            <field name="ucestadistica11" readonly='1'/>
+                            <field name="idestudiante" invisible="1"/>
+                            <field name="estudiantes11"/>
+                            <field name="iddocente" invisible="1"/>
+                            <field name="docente11"/>
+                            <field name="grupo11"/>
+                            
+                        </group>
+                    </sheet>
+                    <sheet>
+                        <group>
+                            <field name="programaestadistica" readonly='1'/>
+                            <field name="nucleoestadistica" readonly='1'/>
+                            <field name="turnoestadistica" readonly='1'/>
+                            <field name="ucestadistica12" readonly='1'/>
+                            <field name="idestudiante" invisible="1"/>
+                            <field name="estudiantes12"/>
+                            <field name="iddocente" invisible="1"/>
+                            <field name="docente12"/>
+                            <field name="grupo12"/>
+                            
+                        </group>
+                    </sheet>
+                    <sheet>
+                        <group>
+                            <field name="programaestadistica" readonly='1'/>
+                            <field name="nucleoestadistica" readonly='1'/>
+                            <field name="turnoestadistica" readonly='1'/>
+                            <field name="ucestadistica13" readonly='1'/>
+                            <field name="idestudiante" invisible="1"/>
+                            <field name="estudiantes13"/>
+                            <field name="iddocente" invisible="1"/>
+                            <field name="docente13"/>
+                            <field name="grupo13"/>
+                            
+                        </group>
+                    </sheet>
+                    <sheet>
+                        <group>
+                            <field name="programaestadistica" readonly='1'/>
+                            <field name="nucleoestadistica" readonly='1'/>
+                            <field name="turnoestadistica" readonly='1'/>
+                            <field name="ucestadistica14" readonly='1'/>
+                            <field name="idestudiante" invisible="1"/>
+                            <field name="estudiantes14"/>
+                            <field name="iddocente" invisible="1"/>
+                            <field name="docente14"/>
+                            <field name="grupo14"/>
+                            
+                        </group>
+                    </sheet>
+                    <sheet>
+                        <group>
+                            <field name="programaestadistica" readonly='1'/>
+                            <field name="nucleoestadistica" readonly='1'/>
+                            <field name="turnoestadistica" readonly='1'/>
+                            <field name="ucestadistica15" readonly='1'/>
+                            <field name="idestudiante" invisible="1"/>
+                            <field name="estudiantes15"/>
+                            <field name="iddocente" invisible="1"/>
+                            <field name="docente15"/>
+                            <field name="grupo15"/>
+                            
+                        </group>
+                    </sheet>
+                    <sheet>
+                        <group>
+                            <field name="programaestadistica" readonly='1'/>
+                            <field name="nucleoestadistica" readonly='1'/>
+                            <field name="turnoestadistica" readonly='1'/>
+                            <field name="ucestadistica16" readonly='1'/>
+                            <field name="idestudiante" invisible="1"/>
+                            <field name="estudiantes16"/>
+                            <field name="iddocente" invisible="1"/>
+                            <field name="docente16"/>
+                            <field name="grupo16"/>
+                            
+                        </group>
+                    </sheet>
+                    <sheet>
+                        <group>
+                            <field name="programaestadistica" readonly='1'/>
+                            <field name="nucleoestadistica" readonly='1'/>
+                            <field name="turnoestadistica" readonly='1'/>
+                            <field name="ucestadistica17" readonly='1'/>
+                            <field name="idestudiante" invisible="1"/>
+                            <field name="estudiantes17"/>
+                            <field name="iddocente" invisible="1"/>
+                            <field name="docente17"/>
+                            <field name="grupo17"/>
+                            
+                        </group>
+                    </sheet>
+                    <sheet>
+                        <group>
+                            <field name="programaestadistica" readonly='1'/>
+                            <field name="nucleoestadistica" readonly='1'/>
+                            <field name="turnoestadistica" readonly='1'/>
+                            <field name="ucestadistica18" readonly='1'/>
+                            <field name="idestudiante" invisible="1"/>
+                            <field name="estudiantes18"/>
+                            <field name="iddocente" invisible="1"/>
+                            <field name="docente18"/>
+                            <field name="grupo18"/>
+                            
+                        </group>
+                    </sheet>
+                    <sheet>
+                        <group>
+                            <field name="programaestadistica" readonly='1'/>
+                            <field name="nucleoestadistica" readonly='1'/>
+                            <field name="turnoestadistica" readonly='1'/>
+                            <field name="ucestadistica19" readonly='1'/>
+                            <field name="idestudiante" invisible="1"/>
+                            <field name="estudiantes19"/>
+                            <field name="iddocente" invisible="1"/>
+                            <field name="docente19"/>
+                            <field name="grupo19"/>
+                            
+                        </group>
+                    </sheet>
+                </form>
+            </field>
+        </record>
+        <!-- FIN VISTA FORM: Estadisticas -->
+
+        <!-- MODELO: Estadisticas -->
+        <record model="ir.actions.act_window" id="action_estadistica">
+            <field name="name">Estadisticas</field>
+            <field name="res_model">estadistica</field>
+            <field name="view_mode">form</field>
+        </record>
+        <!-- FIN MODELO: Estadisticas -->
+
+        <!-- MENÚ SECUNDARIO: Estadisticas -->
+        <menuitem name="Estadisticas" id="menu_estadistica" action="action_estadistica" sequence="1"/>
+            
+        <!-- MENÚ PRINCIPAL -->
+        <menuitem name="MENU" id="men_pri"/>
+    </data>
+</odoo>
